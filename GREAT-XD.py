@@ -1,6 +1,6 @@
 import os
-import RANDOM
-RANDOM.login()
+import GREAT 
+GREAT.login()
 #____________________(FUCK)_________________#
 #____________________(FUCK)_________________#
 #____________________(FUCK)_________________#
